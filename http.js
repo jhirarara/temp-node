@@ -11,6 +11,7 @@ const server=http.createServer((req,res)=>{
 
 res.write('123')
 
+res.write('1223')
 
 res.end()
 
